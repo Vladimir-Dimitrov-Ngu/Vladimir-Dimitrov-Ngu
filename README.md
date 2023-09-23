@@ -42,6 +42,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23150458.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vladimirngu)
 
 ### How to reach me
-[![gmail](https://img.shields.io/badge/-gmail-00A4EF?style=for-the-badge&logo=gmail)](https://github.com/Vladimir-Dimitrov-Ngu)](mailto:dimitrov_rabota@mail.ru)
+[![gmail](https://img.shields.io/badge/-gmail-00A4EF?style=for-the-badge&logo=gmail)](https://github.com/Vladimir-Dimitrov-Ngu)(mailto:dimitrov_rabota@mail.ru)
 
 
