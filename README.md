@@ -38,8 +38,8 @@
 [![Wandb](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/Vladimir-Dimitrov-Ngu)
 
 ### My Social Links
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://github.com/Vladimir-Dimitrov-Ngu)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/vladimirngu)
+[![Telegram](https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23150458.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vladimirngu)
 
 ### How to reach me
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:dimitrov_rabota@mail.ru)
