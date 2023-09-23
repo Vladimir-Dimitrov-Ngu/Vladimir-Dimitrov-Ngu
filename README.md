@@ -48,6 +48,6 @@
 ### My Trophies
 #### 🏆 3st Place: Demand predictions for the Ozone trading platform
 #### 🏆 1st Place: Junior ML Camp
-#### 🏆 1st Place: ITMO Bootcaml (Edtech track) 
+#### 🏆 1st Place: ITMO Bootcamp (Edtech track) 
 
 
