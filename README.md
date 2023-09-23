@@ -10,8 +10,10 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
-[![BS4]([https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=BS4](https://img.shields.io/badge/-BeautifulSoup-090909?style=for-the-badge&logo=Beautiful%20Soup))]([https://hub.docker.com/u/mbaushenko](https://github.com/Vladimir-Dimitrov-Ngu)https://github.com/Vladimir-Dimitrov-Ngu)
+[![BS4](https://img.shields.io/badge/BS4-%23F7931E.svg?style=for-the-badge&logo=BS4&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![Request](https://img.shields.io/badge/request-%23F7931E.svg?style=for-the-badge&logo=request&logoColor=blue)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![Scrapy](https://img.shields.io/badge/Scrapy-%23F7931E.svg?style=for-the-badge&logo=Scrapy&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
+
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
