@@ -41,7 +41,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23150458.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vladimirngu)
 
+
 ### How to reach me
 [![gmail](https://img.shields.io/badge/-gmail-00A4EF?style=for-the-badge&logo=gmail)](mailto:dimitrov_rabota@mail.ru)
+
+### My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
