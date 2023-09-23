@@ -11,6 +11,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![BS4]([https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=BS4](https://img.shields.io/badge/-BeautifulSoup-090909?style=for-the-badge&logo=Beautiful%20Soup))]([https://hub.docker.com/u/mbaushenko](https://github.com/Vladimir-Dimitrov-Ngu)https://github.com/Vladimir-Dimitrov-Ngu)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
@@ -23,7 +24,8 @@
 [![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![GITLAB](https://img.shields.io/badge/-Gitlab-77DDE7?style=for-the-badge&logo=GITLAB)](https://github.com/Vladimir-Dimitrov-Ngu)
-[![Docker](https://img.shields.io/badge/-DockerHub-090909?style=for-the-badge&logo=Docker)]([https://hub.docker.com/u/mbaushenko](https://github.com/Vladimir-Dimitrov-Ngu)https://github.com/Vladimir-Dimitrov-Ngu)
+[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)]([https://hub.docker.com/u/mbaushenko](https://github.com/Vladimir-Dimitrov-Ngu)https://github.com/Vladimir-Dimitrov-Ngu)
+
 
 
 
