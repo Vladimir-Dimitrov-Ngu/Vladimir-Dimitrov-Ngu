@@ -46,6 +46,8 @@
 [![gmail](https://img.shields.io/badge/-gmail-00A4EF?style=for-the-badge&logo=gmail)](mailto:dimitrov_rabota@mail.ru)
 
 ### My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+###### 3st Place: Demand predictions for the Ozone trading platform
+###### 1st Place: Junior ML Camp
+###### 1st Place: ITMO Bootcaml (Edtech track) 
 
 
