@@ -38,7 +38,7 @@
 [![Wandb](https://img.shields.io/badge/Wandb-005571?style=for-the-badge&logo=wandb)](https://github.com/Vladimir-Dimitrov-Ngu)
 
 ### My Social Links
-[![Telegram](https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![Telegram](https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dimitrov_work)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23150458.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vladimirngu)
 
 
