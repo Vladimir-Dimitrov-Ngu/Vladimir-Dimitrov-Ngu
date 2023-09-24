@@ -46,9 +46,9 @@
 [![gmail](https://img.shields.io/badge/-gmail-00A4EF?style=for-the-badge&logo=gmail)](mailto:dimitrov_rabota@mail.ru)
 
 ### My Trophies
-#### 🏆 1st Place: Junior ML Camp
-#### 🏆 1st Place: ITMO Bootcamp (Edtech track) 
-#### 🏆 2st Place: AI Super resolution task
+#### [🏆 1st Place: ITMO Bootcamp (Edtech track)](https://github.com/itmo-bootcamp/itmo-bootcamp-2023)
+#### [🏆 1st Place: Junior ML Camp](https://github.com/Vladimir-Dimitrov-Ngu/Project_hub)
+#### [🏆 2st Place: AI Super resolution task](https://github.com/Svyatocheck/AI-Super-Resolution-Task)
 #### 🏆 3st Place: Demand predictions for the Ozone trading platform
 
 
