@@ -35,7 +35,7 @@
 [![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)](https://github.com/Vladimir-Dimitrov-Ngu)
 
 [![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)](https://github.com/Vladimir-Dimitrov-Ngu)
-[![Wandb](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/Vladimir-Dimitrov-Ngu)
+[![Wandb](https://img.shields.io/badge/Wandb-005571?style=for-the-badge&logo=wandb)](https://github.com/Vladimir-Dimitrov-Ngu)
 
 ### My Social Links
 [![Telegram](https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
