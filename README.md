@@ -48,6 +48,7 @@
 ### My Trophies
 #### [🏆 1st Place: ITMO Bootcamp (Edtech track)](https://github.com/itmo-bootcamp/itmo-bootcamp-2023)
 #### [🏆 1st Place: Junior ML Camp](https://github.com/Vladimir-Dimitrov-Ngu/Project_hub)
+#### [🏆 1st Place: HR-Bot](https://github.com/e0xextazy/cp_sfo)
 #### [🏆 2st Place: AI Super resolution task](https://github.com/Svyatocheck/AI-Super-Resolution-Task)
 #### 🏆 3st Place: Demand predictions for the Ozone trading platform
 
